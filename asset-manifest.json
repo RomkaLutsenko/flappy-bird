@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/flappy-bird/static/css/main.53acb244.chunk.css",
+    "main.js": "/flappy-bird/static/js/main.cf51f995.chunk.js",
+    "main.js.map": "/flappy-bird/static/js/main.cf51f995.chunk.js.map",
+    "runtime-main.js": "/flappy-bird/static/js/runtime-main.cf8ff8fa.js",
+    "runtime-main.js.map": "/flappy-bird/static/js/runtime-main.cf8ff8fa.js.map",
+    "static/js/2.7962efcd.chunk.js": "/flappy-bird/static/js/2.7962efcd.chunk.js",
+    "static/js/2.7962efcd.chunk.js.map": "/flappy-bird/static/js/2.7962efcd.chunk.js.map",
+    "index.html": "/flappy-bird/index.html",
+    "static/css/main.53acb244.chunk.css.map": "/flappy-bird/static/css/main.53acb244.chunk.css.map",
+    "static/js/2.7962efcd.chunk.js.LICENSE.txt": "/flappy-bird/static/js/2.7962efcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf8ff8fa.js",
+    "static/js/2.7962efcd.chunk.js",
+    "static/css/main.53acb244.chunk.css",
+    "static/js/main.cf51f995.chunk.js"
+  ]
+}
